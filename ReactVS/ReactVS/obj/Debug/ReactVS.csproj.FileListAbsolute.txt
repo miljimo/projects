@@ -1,0 +1,5 @@
+C:\Projects\ReactVS\ReactVS\bin\ReactVS.dll
+C:\Projects\ReactVS\ReactVS\bin\ReactVS.pdb
+C:\Projects\ReactVS\ReactVS\obj\Debug\ReactVS.csprojResolveAssemblyReference.cache
+C:\Projects\ReactVS\ReactVS\obj\Debug\ReactVS.dll
+C:\Projects\ReactVS\ReactVS\obj\Debug\ReactVS.pdb
